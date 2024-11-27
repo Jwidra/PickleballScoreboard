@@ -1,0 +1,23 @@
+For info on how modules work, look up & read the datasheets!
+
+For real life example, see pictures/video
+
+For code, log on to build.particle.io
+(or look in the code folder here)
+
+Loading data to SD card for MP3 player:
+Used a text to voice tool to generate a bunch of sound files for the SD card. Names are important. 
+0001_score_is.mp3
+0002_on.mp3
+0003_start.mp3
+0004_team1_win.mp3
+0005_team2_win.mp3
+1024_zero.mp3
+1025_one.mp3
+1026_two.mp3
+...
+1123_ninetynine.mp3
+
+Programming remotes: 
+I got a 433 MHz duplication remote control, which was programmed to work with the receiver
+I got a smaller 433 MHz universal wireless cloning remote to carry around. Fits in a pocket or hand easier. On keychain.
